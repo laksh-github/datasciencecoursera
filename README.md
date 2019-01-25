@@ -1,4 +1,4 @@
-# tidy_data readme file
+# tidy_dataset readme file
 
 1. Load features, activity, subject's test and train datasets into tables.
 2. Combine both test and train datasets for features, activity and subject, into their respective tables.
